@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @JacobDahlberg
-- 👀 I’m interested in learning backend development, Python, and cybersecurity in the future!
-- 🌱 I’m currently learning Fullstack JavaScript, building my portfolio and website
-- 💞️ I’m looking to collaborate on any opensouce projects I may assist with
+- 👋 Hi, I’m Jacob Dahlberg
+- 👀 I’m interested in learning backend development, Python, SQL data and cybersecurity in the future!
+- 🌱 I’m currently learning Fullstack JavaScript and I've built my portfolio and website to share
+- 💞️ I’m looking to expand inclusitivity in tech
 - 📫 jacobhdmusic@gmail.com
 
 <!---
